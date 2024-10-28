@@ -28,13 +28,13 @@ public interface LoginUserDataAccessInterface {
     User get(String username);
 
     /**
-     * sets username.
+     * Sets username.
      * @param username is set
      */
     void setCurrentUser(String username);
 
     /**
-     * cndc.
+     * Cejhdu.
      * @return sede
      */
     String getCurrentUser();
